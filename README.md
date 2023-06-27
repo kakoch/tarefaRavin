@@ -10,8 +10,12 @@ UML created using: https://app.diagrams.net
 Atividade criada por @marciomichelluzzi
   </div>
   <div>
+    <br>
 ---
+
 ### Requisitos funcionais
+
+---
 
 - RF01 - O sistema deve permitir o a inclusão/exclusão/atualização/listagem de funcionários. As informações referentes a um funcionário são:
     - Nome;
