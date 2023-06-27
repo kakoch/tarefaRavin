@@ -1,0 +1,11 @@
+package enums;
+
+public enum Cargo {
+	DONO,
+	GERENTE,
+	ATENDENTE,
+	GARCOM,
+	COZINHEIRO,
+	AUXILIAR_DE_LIMPEZA,
+	BARTENDER,
+}
