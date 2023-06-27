@@ -5,8 +5,11 @@ Logo a baixo da imagem segue as regras definidas para a tarefa.
   <br>
   <img src="https://github.com/kakoch/tarefaRavin/blob/main/tarefa%20Ravin.drawio.png" target="_blank" width="500px" height= "500px" title="UML Tarefa Ravin">
 </div>
+<div>
 UML created using: https://app.diagrams.net
 Atividade criada por @marciomichelluzzi
+  </div>
+  <div>
 ---
 ### Requisitos funcionais
 
@@ -89,3 +92,4 @@ Atividade criada por @marciomichelluzzi
 - RN09 - Quando o funcionário for excluído, ele deverá internamente ser marcado como inativo
 - Para permitir fazer um pedido o cliente deve estar cadastrado;
 - Ao adicionar uma pessoa a uma mesa deve-se verificar a quantidade máxima de pessoas;
+- </div>
